@@ -1,0 +1,5 @@
+name: CrashClient
+version: ${project.version}
+main: ru.violence.crashclient.CrashClientPlugin
+commands:
+  crashclient:
